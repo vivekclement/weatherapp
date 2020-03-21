@@ -1,8 +1,8 @@
-# Python: Getting Started
+# Python and Django: Weatherapp
 
-A barebones Django app, which can easily be deployed to Heroku.
+[Weatherapp](https://onaroadtrip.herokuapp.com/)
 
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+This application  [Weatherapp](https://codemy.com/push-django-python-apps-heroku-web-hosting/) article - check it out.
 
 ## Running Locally
 
